@@ -5,6 +5,7 @@ public class SampleProjCls {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println("Login Github");
+			System.out.println("Committed");
 	}
 
 }
