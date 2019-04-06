@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Selenium-2/JAR Files/selenium-server-3.6.0/selenium-3.6.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-2/JAR Files/selenium-server-3.6.0/selenium-3.6.0-nodeps-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium-2/JAR Files/selenium-server-3.6.0/libs/bundle-jars.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium-2/JAR Files/selenium-server-3.6.0/libs/byte-buddy-1.7.5.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium-2/JAR Files/selenium-server-3.6.0/libs/commons-codec-1.10.jar"/>
@@ -39,5 +40,6 @@
 	<classpathentry kind="lib" path="C:/Selenium-2/JAR Files/selenium-server-3.6.0/libs/xalan-2.7.2.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium-2/JAR Files/selenium-server-3.6.0/libs/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium-2/JAR Files/selenium-server-3.6.0/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium-2/JAR Files/TestNG/testng-6.8.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
