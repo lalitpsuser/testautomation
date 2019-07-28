@@ -59,11 +59,11 @@ public class SampleProjCls {
 			
 			//%%%%%%%%%%%%%%%%%%%%  Wait for some time(FLUENT) - wait for the element to be visiblewith condition and frequency  %%%%%%%%%%%%%%%%%%%% 
 										
-			Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)							
+			/*Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)							
 			.withTimeout(30, TimeUnit.SECONDS) 			
 			.pollingEvery(5, TimeUnit.SECONDS) 			
 			.ignoring(NoSuchElementException.class);	
-								
+			*/					
 			//%%%%%%%%%%%%%%%%%%%% Count the number of Web tables in a page %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 			/*driver.navigate().to("http://www.newtours.demoaut.com/");
 			
